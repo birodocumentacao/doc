@@ -12,4 +12,4 @@ Find on our [roadmap](https://github.com/csshortcut/csshortcut-app/issues/1) the
 Want to contribute? [Follow these recommendations](https://github.com/csshortcut/csshortcut-app/blob/master/CONTRIBUTING.md).
 
 ## License
-[MIT License](https://github.com/csshortcut/csshortcut-app/blob/master/LICENSE.md) © [BirôShop](http://biroshop.com.br/)
+[MIT License](https://github.com/birodocumentacao/doc/blob/master/LICENSE.md) © [BirôShop](http://biroshop.com.br/)
