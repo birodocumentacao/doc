@@ -6,7 +6,7 @@ categories: horário
 author: Lucas Augusto
 ---
 
-Para troca o dia e horário das lojas entre em
+Para trocar o dia e o horário das lojas entre em:
 
 > Aparência -> Gerenciador de Arquivos -> BiroShop2.0 -> Header.template
 
